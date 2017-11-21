@@ -1,7 +1,7 @@
 {
-  "name": "react-chartjs",
-  "version": "0.8.0",
-  "description": "react charting components using the chartjs lib",
+  "name": "samanage-react-chartjs",
+  "version": "0.0.1",
+  "description": "react charting components using the chartjs lib R16 ready",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhudson8/react-chartjs"
+    "url": "git@github.com:nudelx/react-chartjs.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "Joe Hudson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jhudson8/react-chartjs/issues"
+    "url": "https://github.com/nudelx/react-chartjs"
   },
-  "homepage": "https://github.com/jhudson8/react-chartjs",
+  "homepage": "https://github.com/nudelx/react-chartjs",
   "peerDependencies": {
     "react": "*",
     "react-dom": "*",
